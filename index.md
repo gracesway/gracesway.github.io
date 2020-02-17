@@ -4,7 +4,7 @@
 <meta name="Keywords" content="CIW, HTML5, uCorp"/>
 <meta name="Description" content="Simple XHTML page for uCorp site"/>
 <meta charset="utf-8"/>
-<link rel="stylesheet"  type="text/css" href="aboutus/aboutus.css"/>
+<link rel="stylesheet"  type="text/css" href="index.css"/>
 <title>Welcome to uCorp</title>
 </head>
 <body>
